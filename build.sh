@@ -1,5 +1,5 @@
 #!/bin/bash
-if [[ $# -lt 2 ]]; then
+if [[ $# -lt 3 ]]; then
     echo "usage: $0 ARCH KDB_SRC FFTW_SRC"
     exit 1
 fi
