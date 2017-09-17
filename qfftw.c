@@ -1,5 +1,5 @@
 #include <fftw3.h>
-#include "k.h"
+#include <k.h>
 
 #ifdef __cplusplus
 extern "C"{
